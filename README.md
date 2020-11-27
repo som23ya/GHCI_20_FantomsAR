@@ -2,6 +2,8 @@
 
 # FantomsAR-shopping-app
 
+**PROJECT SELECTED IN TOP 4 FINALIST IN GHCI HACKATHON!**
+
 <img height='175' src="https://github.com/som23ya/FantomsAR-shopping-app/blob/master/icon.jpg" align="left" hspace="12" vspace="130">
 
 
